@@ -1,0 +1,32 @@
+﻿<grammar version="1.0" xml:lang="en-US" root="rootRule" tag-format="semantics/1.0-literals" xmlns="http://www.w3.org/2001/06/grammar">
+  <rule id="rootRule">
+    <one-of>
+      <item>
+        <tag>BACK</tag>
+        <one-of>
+          <item> Back </item>
+          <item> Return </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>HULK</tag>
+        <one-of>
+          <item> Change Hulk </item>
+          <item> Hulk </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>SHREK</tag>
+        <one-of>
+          <item> Shrek </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>EXIT</tag>
+        <one-of>
+          <item> Exit </item>
+        </one-of>
+      </item>
+    </one-of>
+  </rule>
+</grammar>

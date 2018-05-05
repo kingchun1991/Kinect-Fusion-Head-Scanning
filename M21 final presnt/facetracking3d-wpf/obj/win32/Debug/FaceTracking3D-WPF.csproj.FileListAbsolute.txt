@@ -1,0 +1,504 @@
+C:\Users\KingChun\Desktop\FYP Backup\FaceTracking3D-WPF\bin\x86\Debug\FaceTrackData.dll
+C:\Users\KingChun\Desktop\FYP Backup\FaceTracking3D-WPF\bin\x86\Debug\FaceTrackLib.dll
+C:\Users\KingChun\Desktop\FYP Backup\FaceTracking3D-WPF\bin\x86\Debug\FaceTracking3D-WPF.exe
+C:\Users\KingChun\Desktop\FYP Backup\FaceTracking3D-WPF\bin\x86\Debug\FaceTracking3D-WPF.pdb
+C:\Users\KingChun\Desktop\FYP Backup\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\KingChun\Desktop\FYP Backup\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\KingChun\Desktop\FYP Backup\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\KingChun\Desktop\FYP Backup\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\KingChun\Desktop\FYP Backup\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.csprojResolveAssemblyReference.cache
+C:\Users\KingChun\Desktop\FYP Backup\FaceTracking3D-WPF\obj\Win32\Debug\TexturedFaceMeshViewer.g.cs
+C:\Users\KingChun\Desktop\FYP Backup\FaceTracking3D-WPF\obj\Win32\Debug\MainWindow.g.cs
+C:\Users\KingChun\Desktop\FYP Backup\FaceTracking3D-WPF\obj\Win32\Debug\App.g.cs
+C:\Users\KingChun\Desktop\FYP Backup\FaceTracking3D-WPF\obj\Win32\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\KingChun\Desktop\FYP Backup\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF_MarkupCompile.cache
+C:\Users\KingChun\Desktop\FYP Backup\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF_MarkupCompile.lref
+C:\Users\KingChun\Desktop\FYP Backup\FaceTracking3D-WPF\obj\Win32\Debug\TexturedFaceMeshViewer.baml
+C:\Users\KingChun\Desktop\FYP Backup\FaceTracking3D-WPF\obj\Win32\Debug\MainWindow.baml
+C:\Users\KingChun\Desktop\FYP Backup\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.g.resources
+C:\Users\KingChun\Desktop\FYP Backup\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D.Properties.Resources.resources
+C:\Users\KingChun\Desktop\FYP Backup\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.csproj.GenerateResource.Cache
+C:\Users\KingChun\Desktop\FYP Backup\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.exe
+C:\Users\KingChun\Desktop\FYP Backup\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.pdb
+C:\Users\KingChun\Desktop\FYP submit version\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.exe
+C:\Users\KingChun\Desktop\FYP submit version\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.pdb
+C:\Users\KingChun\Desktop\FYP problem\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.exe
+C:\Users\KingChun\Desktop\FYP problem\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.pdb
+C:\Users\KingChun\Desktop\FYP problem\FaceTracking3D-WPF\bin\x86\Debug\FaceTrackData.dll
+C:\Users\KingChun\Desktop\FYP problem\FaceTracking3D-WPF\bin\x86\Debug\FaceTrackLib.dll
+C:\Users\KingChun\Desktop\FYP problem\FaceTracking3D-WPF\bin\x86\Debug\FaceTracking3D-WPF.exe
+C:\Users\KingChun\Desktop\FYP problem\FaceTracking3D-WPF\bin\x86\Debug\FaceTracking3D-WPF.pdb
+C:\Users\KingChun\Desktop\FYP problem\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\KingChun\Desktop\FYP problem\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\KingChun\Desktop\FYP problem\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\KingChun\Desktop\FYP problem\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\KingChun\Desktop\FYP problem\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.csprojResolveAssemblyReference.cache
+C:\Users\KingChun\Desktop\FYP problem\FaceTracking3D-WPF\obj\Win32\Debug\TexturedFaceMeshViewer.g.cs
+C:\Users\KingChun\Desktop\FYP problem\FaceTracking3D-WPF\obj\Win32\Debug\MainWindow.g.cs
+C:\Users\KingChun\Desktop\FYP problem\FaceTracking3D-WPF\obj\Win32\Debug\App.g.cs
+C:\Users\KingChun\Desktop\FYP problem\FaceTracking3D-WPF\obj\Win32\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\KingChun\Desktop\FYP problem\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF_MarkupCompile.cache
+C:\Users\KingChun\Desktop\FYP problem\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF_MarkupCompile.lref
+C:\Users\KingChun\Desktop\FYP problem\FaceTracking3D-WPF\obj\Win32\Debug\TexturedFaceMeshViewer.baml
+C:\Users\KingChun\Desktop\FYP problem\FaceTracking3D-WPF\obj\Win32\Debug\MainWindow.baml
+C:\Users\KingChun\Desktop\FYP problem\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.g.resources
+C:\Users\KingChun\Desktop\FYP problem\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D.Properties.Resources.resources
+C:\Users\KingChun\Desktop\FYP problem\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.csproj.GenerateResource.Cache
+C:\Users\KingChun\Desktop\Hulk version2\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.exe
+C:\Users\KingChun\Desktop\Hulk version2\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.pdb
+C:\Users\KingChun\Desktop\Hulk version2\FaceTracking3D-WPF\bin\x86\Debug\FaceTrackData.dll
+C:\Users\KingChun\Desktop\Hulk version2\FaceTracking3D-WPF\bin\x86\Debug\FaceTrackLib.dll
+C:\Users\KingChun\Desktop\Hulk version2\FaceTracking3D-WPF\bin\x86\Debug\FaceTracking3D-WPF.exe
+C:\Users\KingChun\Desktop\Hulk version2\FaceTracking3D-WPF\bin\x86\Debug\FaceTracking3D-WPF.pdb
+C:\Users\KingChun\Desktop\Hulk version2\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\KingChun\Desktop\Hulk version2\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\KingChun\Desktop\Hulk version2\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\KingChun\Desktop\Hulk version2\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\KingChun\Desktop\Hulk version2\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.csprojResolveAssemblyReference.cache
+C:\Users\KingChun\Desktop\Hulk version2\FaceTracking3D-WPF\obj\Win32\Debug\TexturedFaceMeshViewer.g.cs
+C:\Users\KingChun\Desktop\Hulk version2\FaceTracking3D-WPF\obj\Win32\Debug\MainWindow.g.cs
+C:\Users\KingChun\Desktop\Hulk version2\FaceTracking3D-WPF\obj\Win32\Debug\App.g.cs
+C:\Users\KingChun\Desktop\Hulk version2\FaceTracking3D-WPF\obj\Win32\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\KingChun\Desktop\Hulk version2\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF_MarkupCompile.cache
+C:\Users\KingChun\Desktop\Hulk version2\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF_MarkupCompile.lref
+C:\Users\KingChun\Desktop\Hulk version2\FaceTracking3D-WPF\obj\Win32\Debug\TexturedFaceMeshViewer.baml
+C:\Users\KingChun\Desktop\Hulk version2\FaceTracking3D-WPF\obj\Win32\Debug\MainWindow.baml
+C:\Users\KingChun\Desktop\Hulk version2\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.g.resources
+C:\Users\KingChun\Desktop\Hulk version2\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D.Properties.Resources.resources
+C:\Users\KingChun\Desktop\Hulk version2\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.csproj.GenerateResource.Cache
+C:\Users\KingChun\Desktop\Hulk version with voice control\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.exe
+C:\Users\KingChun\Desktop\Hulk version with voice control\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.pdb
+C:\Users\KingChun\Desktop\Hub test\FaceTracking3D-WPF\bin\x86\Debug\FaceTrackData.dll
+C:\Users\KingChun\Desktop\Hub test\FaceTracking3D-WPF\bin\x86\Debug\FaceTrackLib.dll
+C:\Users\KingChun\Desktop\Hub test\FaceTracking3D-WPF\bin\x86\Debug\FaceTracking3D-WPF.exe
+C:\Users\KingChun\Desktop\Hub test\FaceTracking3D-WPF\bin\x86\Debug\FaceTracking3D-WPF.pdb
+C:\Users\KingChun\Desktop\Hub test\FaceTracking3D-WPF\bin\x86\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\KingChun\Desktop\Hub test\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\KingChun\Desktop\Hub test\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\KingChun\Desktop\Hub test\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\KingChun\Desktop\Hub test\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\KingChun\Desktop\Hub test\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\KingChun\Desktop\Hub test\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\KingChun\Desktop\Hub test\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.csprojResolveAssemblyReference.cache
+C:\Users\KingChun\Desktop\Hub test\FaceTracking3D-WPF\obj\Win32\Debug\TexturedFaceMeshViewer.g.cs
+C:\Users\KingChun\Desktop\Hub test\FaceTracking3D-WPF\obj\Win32\Debug\MainWindow.g.cs
+C:\Users\KingChun\Desktop\Hub test\FaceTracking3D-WPF\obj\Win32\Debug\App.g.cs
+C:\Users\KingChun\Desktop\Hub test\FaceTracking3D-WPF\obj\Win32\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\KingChun\Desktop\Hub test\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF_MarkupCompile.cache
+C:\Users\KingChun\Desktop\Hub test\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF_MarkupCompile.lref
+C:\Users\KingChun\Desktop\Hub test\FaceTracking3D-WPF\obj\Win32\Debug\TexturedFaceMeshViewer.baml
+C:\Users\KingChun\Desktop\Hub test\FaceTracking3D-WPF\obj\Win32\Debug\MainWindow.baml
+C:\Users\KingChun\Desktop\Hub test\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.g.resources
+C:\Users\KingChun\Desktop\Hub test\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D.Properties.Resources.resources
+C:\Users\KingChun\Desktop\Hub test\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.csproj.GenerateResource.Cache
+C:\Users\KingChun\Desktop\Hub test\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.exe
+C:\Users\KingChun\Desktop\Hub test\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.pdb
+C:\Users\KingChun\Desktop\Meeting\better\FaceTracking3D-WPF\bin\x86\Debug\FaceTrackData.dll
+C:\Users\KingChun\Desktop\Meeting\better\FaceTracking3D-WPF\bin\x86\Debug\FaceTrackLib.dll
+C:\Users\KingChun\Desktop\Meeting\better\FaceTracking3D-WPF\bin\x86\Debug\FaceTracking3D-WPF.exe
+C:\Users\KingChun\Desktop\Meeting\better\FaceTracking3D-WPF\bin\x86\Debug\FaceTracking3D-WPF.pdb
+C:\Users\KingChun\Desktop\Meeting\better\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\KingChun\Desktop\Meeting\better\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\KingChun\Desktop\Meeting\better\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\KingChun\Desktop\Meeting\better\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\KingChun\Desktop\Meeting\better\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\KingChun\Desktop\Meeting\better\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\KingChun\Desktop\Meeting\better\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.csprojResolveAssemblyReference.cache
+C:\Users\KingChun\Desktop\Meeting\better\FaceTracking3D-WPF\obj\Win32\Debug\TexturedFaceMeshViewer.g.cs
+C:\Users\KingChun\Desktop\Meeting\better\FaceTracking3D-WPF\obj\Win32\Debug\MainWindow.g.cs
+C:\Users\KingChun\Desktop\Meeting\better\FaceTracking3D-WPF\obj\Win32\Debug\App.g.cs
+C:\Users\KingChun\Desktop\Meeting\better\FaceTracking3D-WPF\obj\Win32\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\KingChun\Desktop\Meeting\better\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF_MarkupCompile.cache
+C:\Users\KingChun\Desktop\Meeting\better\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF_MarkupCompile.lref
+C:\Users\KingChun\Desktop\Meeting\better\FaceTracking3D-WPF\obj\Win32\Debug\TexturedFaceMeshViewer.baml
+C:\Users\KingChun\Desktop\Meeting\better\FaceTracking3D-WPF\obj\Win32\Debug\MainWindow.baml
+C:\Users\KingChun\Desktop\Meeting\better\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.g.resources
+C:\Users\KingChun\Desktop\Meeting\better\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D.Properties.Resources.resources
+C:\Users\KingChun\Desktop\Meeting\better\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.csproj.GenerateResource.Cache
+C:\Users\KingChun\Desktop\Meeting\better\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.exe
+C:\Users\KingChun\Desktop\Meeting\better\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.pdb
+C:\Users\KingChun\Desktop\better\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.exe
+C:\Users\KingChun\Desktop\better\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.pdb
+C:\Users\KingChun\Desktop\better\FaceTracking3D-WPF\bin\x86\Debug\FaceTrackData.dll
+C:\Users\KingChun\Desktop\better\FaceTracking3D-WPF\bin\x86\Debug\FaceTrackLib.dll
+C:\Users\KingChun\Desktop\better\FaceTracking3D-WPF\bin\x86\Debug\FaceTracking3D-WPF.exe
+C:\Users\KingChun\Desktop\better\FaceTracking3D-WPF\bin\x86\Debug\FaceTracking3D-WPF.pdb
+C:\Users\KingChun\Desktop\better\FaceTracking3D-WPF\bin\x86\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\KingChun\Desktop\better\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\KingChun\Desktop\better\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\KingChun\Desktop\better\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\KingChun\Desktop\better\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\KingChun\Desktop\better\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\KingChun\Desktop\better\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\KingChun\Desktop\better\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.csprojResolveAssemblyReference.cache
+C:\Users\KingChun\Desktop\better\FaceTracking3D-WPF\obj\Win32\Debug\TexturedFaceMeshViewer.g.cs
+C:\Users\KingChun\Desktop\better\FaceTracking3D-WPF\obj\Win32\Debug\MainWindow.g.cs
+C:\Users\KingChun\Desktop\better\FaceTracking3D-WPF\obj\Win32\Debug\App.g.cs
+C:\Users\KingChun\Desktop\better\FaceTracking3D-WPF\obj\Win32\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\KingChun\Desktop\better\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF_MarkupCompile.cache
+C:\Users\KingChun\Desktop\better\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF_MarkupCompile.lref
+C:\Users\KingChun\Desktop\better\FaceTracking3D-WPF\obj\Win32\Debug\TexturedFaceMeshViewer.baml
+C:\Users\KingChun\Desktop\better\FaceTracking3D-WPF\obj\Win32\Debug\MainWindow.baml
+C:\Users\KingChun\Desktop\better\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.g.resources
+C:\Users\KingChun\Desktop\better\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D.Properties.Resources.resources
+C:\Users\KingChun\Desktop\better\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.csproj.GenerateResource.Cache
+C:\Users\KingChun\Desktop\better - Copy\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.exe
+C:\Users\KingChun\Desktop\better - Copy\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.pdb
+C:\Users\KingChun\Desktop\better - Copy\FaceTracking3D-WPF\bin\x86\Debug\FaceTrackData.dll
+C:\Users\KingChun\Desktop\better - Copy\FaceTracking3D-WPF\bin\x86\Debug\FaceTrackLib.dll
+C:\Users\KingChun\Desktop\better - Copy\FaceTracking3D-WPF\bin\x86\Debug\FaceTracking3D-WPF.exe
+C:\Users\KingChun\Desktop\better - Copy\FaceTracking3D-WPF\bin\x86\Debug\FaceTracking3D-WPF.pdb
+C:\Users\KingChun\Desktop\better - Copy\FaceTracking3D-WPF\bin\x86\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\KingChun\Desktop\better - Copy\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\KingChun\Desktop\better - Copy\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\KingChun\Desktop\better - Copy\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\KingChun\Desktop\better - Copy\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\KingChun\Desktop\better - Copy\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\KingChun\Desktop\better - Copy\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\KingChun\Desktop\better - Copy\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.csprojResolveAssemblyReference.cache
+C:\Users\KingChun\Desktop\better - Copy\FaceTracking3D-WPF\obj\Win32\Debug\TexturedFaceMeshViewer.g.cs
+C:\Users\KingChun\Desktop\better - Copy\FaceTracking3D-WPF\obj\Win32\Debug\MainWindow.g.cs
+C:\Users\KingChun\Desktop\better - Copy\FaceTracking3D-WPF\obj\Win32\Debug\App.g.cs
+C:\Users\KingChun\Desktop\better - Copy\FaceTracking3D-WPF\obj\Win32\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\KingChun\Desktop\better - Copy\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF_MarkupCompile.cache
+C:\Users\KingChun\Desktop\better - Copy\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF_MarkupCompile.lref
+C:\Users\KingChun\Desktop\better - Copy\FaceTracking3D-WPF\obj\Win32\Debug\TexturedFaceMeshViewer.baml
+C:\Users\KingChun\Desktop\better - Copy\FaceTracking3D-WPF\obj\Win32\Debug\MainWindow.baml
+C:\Users\KingChun\Desktop\better - Copy\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.g.resources
+C:\Users\KingChun\Desktop\better - Copy\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D.Properties.Resources.resources
+C:\Users\KingChun\Desktop\better - Copy\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.csproj.GenerateResource.Cache
+C:\Users\KingChun\Desktop\obj done\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.exe
+C:\Users\KingChun\Desktop\obj done\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.pdb
+C:\Users\KingChun\Desktop\obj done\FaceTracking3D-WPF\bin\x86\Debug\FaceTrackData.dll
+C:\Users\KingChun\Desktop\obj done\FaceTracking3D-WPF\bin\x86\Debug\FaceTrackLib.dll
+C:\Users\KingChun\Desktop\obj done\FaceTracking3D-WPF\bin\x86\Debug\FaceTracking3D-WPF.exe
+C:\Users\KingChun\Desktop\obj done\FaceTracking3D-WPF\bin\x86\Debug\FaceTracking3D-WPF.pdb
+C:\Users\KingChun\Desktop\obj done\FaceTracking3D-WPF\bin\x86\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\KingChun\Desktop\obj done\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\KingChun\Desktop\obj done\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\KingChun\Desktop\obj done\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\KingChun\Desktop\obj done\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\KingChun\Desktop\obj done\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\KingChun\Desktop\obj done\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\KingChun\Desktop\obj done\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.csprojResolveAssemblyReference.cache
+C:\Users\KingChun\Desktop\obj done\FaceTracking3D-WPF\obj\Win32\Debug\TexturedFaceMeshViewer.g.cs
+C:\Users\KingChun\Desktop\obj done\FaceTracking3D-WPF\obj\Win32\Debug\MainWindow.g.cs
+C:\Users\KingChun\Desktop\obj done\FaceTracking3D-WPF\obj\Win32\Debug\App.g.cs
+C:\Users\KingChun\Desktop\obj done\FaceTracking3D-WPF\obj\Win32\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\KingChun\Desktop\obj done\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF_MarkupCompile.cache
+C:\Users\KingChun\Desktop\obj done\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF_MarkupCompile.lref
+C:\Users\KingChun\Desktop\obj done\FaceTracking3D-WPF\obj\Win32\Debug\TexturedFaceMeshViewer.baml
+C:\Users\KingChun\Desktop\obj done\FaceTracking3D-WPF\obj\Win32\Debug\MainWindow.baml
+C:\Users\KingChun\Desktop\obj done\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.g.resources
+C:\Users\KingChun\Desktop\obj done\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D.Properties.Resources.resources
+C:\Users\KingChun\Desktop\obj done\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.csproj.GenerateResource.Cache
+C:\Users\KingChun\Desktop\obj done - Copy\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.csprojResolveAssemblyReference.cache
+C:\Users\KingChun\Desktop\obj done - Copy\FaceTracking3D-WPF\obj\Win32\Debug\TexturedFaceMeshViewer.g.cs
+C:\Users\KingChun\Desktop\obj done - Copy\FaceTracking3D-WPF\obj\Win32\Debug\MainWindow.g.cs
+C:\Users\KingChun\Desktop\obj done - Copy\FaceTracking3D-WPF\obj\Win32\Debug\App.g.cs
+C:\Users\KingChun\Desktop\obj done - Copy\FaceTracking3D-WPF\obj\Win32\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\KingChun\Desktop\obj done - Copy\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF_MarkupCompile.cache
+C:\Users\KingChun\Desktop\obj done - Copy\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF_MarkupCompile.lref
+C:\Users\KingChun\Desktop\obj done - Copy\FaceTracking3D-WPF\bin\x86\Debug\FaceTrackData.dll
+C:\Users\KingChun\Desktop\obj done - Copy\FaceTracking3D-WPF\bin\x86\Debug\FaceTrackLib.dll
+C:\Users\KingChun\Desktop\obj done - Copy\FaceTracking3D-WPF\bin\x86\Debug\FaceTracking3D-WPF.exe
+C:\Users\KingChun\Desktop\obj done - Copy\FaceTracking3D-WPF\bin\x86\Debug\FaceTracking3D-WPF.pdb
+C:\Users\KingChun\Desktop\obj done - Copy\FaceTracking3D-WPF\bin\x86\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\KingChun\Desktop\obj done - Copy\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\KingChun\Desktop\obj done - Copy\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\KingChun\Desktop\obj done - Copy\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\KingChun\Desktop\obj done - Copy\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\KingChun\Desktop\obj done - Copy\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\KingChun\Desktop\obj done - Copy\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\KingChun\Desktop\obj done - Copy\FaceTracking3D-WPF\obj\Win32\Debug\TexturedFaceMeshViewer.baml
+C:\Users\KingChun\Desktop\obj done - Copy\FaceTracking3D-WPF\obj\Win32\Debug\MainWindow.baml
+C:\Users\KingChun\Desktop\obj done - Copy\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.g.resources
+C:\Users\KingChun\Desktop\obj done - Copy\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D.Properties.Resources.resources
+C:\Users\KingChun\Desktop\obj done - Copy\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.csproj.GenerateResource.Cache
+C:\Users\KingChun\Desktop\obj done - Copy\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.exe
+C:\Users\KingChun\Desktop\obj done - Copy\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.pdb
+C:\Users\KingChun\Desktop\going to add shrek - Copy\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.csprojResolveAssemblyReference.cache
+C:\Users\KingChun\Desktop\going to add shrek - Copy\FaceTracking3D-WPF\obj\Win32\Debug\TexturedFaceMeshViewer.g.cs
+C:\Users\KingChun\Desktop\going to add shrek - Copy\FaceTracking3D-WPF\obj\Win32\Debug\MainWindow.g.cs
+C:\Users\KingChun\Desktop\going to add shrek - Copy\FaceTracking3D-WPF\obj\Win32\Debug\App.g.cs
+C:\Users\KingChun\Desktop\going to add shrek - Copy\FaceTracking3D-WPF\obj\Win32\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\KingChun\Desktop\going to add shrek - Copy\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF_MarkupCompile.cache
+C:\Users\KingChun\Desktop\going to add shrek - Copy\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF_MarkupCompile.lref
+C:\Users\KingChun\Desktop\going to add shrek - Copy\FaceTracking3D-WPF\bin\x86\Debug\FaceTrackData.dll
+C:\Users\KingChun\Desktop\going to add shrek - Copy\FaceTracking3D-WPF\bin\x86\Debug\FaceTrackLib.dll
+C:\Users\KingChun\Desktop\going to add shrek - Copy\FaceTracking3D-WPF\bin\x86\Debug\FaceTracking3D-WPF.exe
+C:\Users\KingChun\Desktop\going to add shrek - Copy\FaceTracking3D-WPF\bin\x86\Debug\FaceTracking3D-WPF.pdb
+C:\Users\KingChun\Desktop\going to add shrek - Copy\FaceTracking3D-WPF\bin\x86\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\KingChun\Desktop\going to add shrek - Copy\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\KingChun\Desktop\going to add shrek - Copy\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\KingChun\Desktop\going to add shrek - Copy\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\KingChun\Desktop\going to add shrek - Copy\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\KingChun\Desktop\going to add shrek - Copy\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\KingChun\Desktop\going to add shrek - Copy\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\KingChun\Desktop\going to add shrek - Copy\FaceTracking3D-WPF\obj\Win32\Debug\TexturedFaceMeshViewer.baml
+C:\Users\KingChun\Desktop\going to add shrek - Copy\FaceTracking3D-WPF\obj\Win32\Debug\MainWindow.baml
+C:\Users\KingChun\Desktop\going to add shrek - Copy\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.g.resources
+C:\Users\KingChun\Desktop\going to add shrek - Copy\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D.Properties.Resources.resources
+C:\Users\KingChun\Desktop\going to add shrek - Copy\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.csproj.GenerateResource.Cache
+C:\Users\KingChun\Desktop\going to add shrek - Copy\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.exe
+C:\Users\KingChun\Desktop\going to add shrek - Copy\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.pdb
+C:\Users\KingChun\Desktop\going to add shrek - Copy\FaceTracking3D-WPF\bin\x86\Debug\FaceTracking3D-WPF.exe.config
+C:\Users\KingChun\Desktop\Hulk done and going to add shrek - Copy\FaceTracking3D-WPF\bin\x86\Debug\FaceTracking3D-WPF.exe.config
+C:\Users\KingChun\Desktop\Hulk done and going to add shrek - Copy\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.exe
+C:\Users\KingChun\Desktop\Hulk done and going to add shrek - Copy\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.pdb
+C:\Users\KingChun\Desktop\Hulk done and going to add shrek - Copy\FaceTracking3D-WPF\bin\x86\Debug\FaceTrackData.dll
+C:\Users\KingChun\Desktop\Hulk done and going to add shrek - Copy\FaceTracking3D-WPF\bin\x86\Debug\FaceTrackLib.dll
+C:\Users\KingChun\Desktop\Hulk done and going to add shrek - Copy\FaceTracking3D-WPF\bin\x86\Debug\FaceTracking3D-WPF.exe
+C:\Users\KingChun\Desktop\Hulk done and going to add shrek - Copy\FaceTracking3D-WPF\bin\x86\Debug\FaceTracking3D-WPF.pdb
+C:\Users\KingChun\Desktop\Hulk done and going to add shrek - Copy\FaceTracking3D-WPF\bin\x86\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\KingChun\Desktop\Hulk done and going to add shrek - Copy\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\KingChun\Desktop\Hulk done and going to add shrek - Copy\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\KingChun\Desktop\Hulk done and going to add shrek - Copy\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\KingChun\Desktop\Hulk done and going to add shrek - Copy\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\KingChun\Desktop\Hulk done and going to add shrek - Copy\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\KingChun\Desktop\Hulk done and going to add shrek - Copy\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\KingChun\Desktop\Hulk done and going to add shrek - Copy\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.csprojResolveAssemblyReference.cache
+C:\Users\KingChun\Desktop\Hulk done and going to add shrek - Copy\FaceTracking3D-WPF\obj\Win32\Debug\TexturedFaceMeshViewer.g.cs
+C:\Users\KingChun\Desktop\Hulk done and going to add shrek - Copy\FaceTracking3D-WPF\obj\Win32\Debug\MainWindow.g.cs
+C:\Users\KingChun\Desktop\Hulk done and going to add shrek - Copy\FaceTracking3D-WPF\obj\Win32\Debug\App.g.cs
+C:\Users\KingChun\Desktop\Hulk done and going to add shrek - Copy\FaceTracking3D-WPF\obj\Win32\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\KingChun\Desktop\Hulk done and going to add shrek - Copy\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF_MarkupCompile.cache
+C:\Users\KingChun\Desktop\Hulk done and going to add shrek - Copy\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF_MarkupCompile.lref
+C:\Users\KingChun\Desktop\Hulk done and going to add shrek - Copy\FaceTracking3D-WPF\obj\Win32\Debug\TexturedFaceMeshViewer.baml
+C:\Users\KingChun\Desktop\Hulk done and going to add shrek - Copy\FaceTracking3D-WPF\obj\Win32\Debug\MainWindow.baml
+C:\Users\KingChun\Desktop\Hulk done and going to add shrek - Copy\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.g.resources
+C:\Users\KingChun\Desktop\Hulk done and going to add shrek - Copy\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D.Properties.Resources.resources
+C:\Users\KingChun\Desktop\Hulk done and going to add shrek - Copy\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.csproj.GenerateResource.Cache
+C:\Users\KingChun\Desktop\meet- programming done\meet- programming done\facetracking3d-wpf\bin\x86\Debug\FaceTracking3D-WPF.exe.config
+C:\Users\KingChun\Desktop\meet- programming done\meet- programming done\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF.exe
+C:\Users\KingChun\Desktop\meet- programming done\meet- programming done\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF.pdb
+C:\Users\KingChun\Desktop\meet- programming done\meet- programming done\facetracking3d-wpf\bin\x86\Debug\FaceTrackData.dll
+C:\Users\KingChun\Desktop\meet- programming done\meet- programming done\facetracking3d-wpf\bin\x86\Debug\FaceTrackLib.dll
+C:\Users\KingChun\Desktop\meet- programming done\meet- programming done\facetracking3d-wpf\bin\x86\Debug\FaceTracking3D-WPF.exe
+C:\Users\KingChun\Desktop\meet- programming done\meet- programming done\facetracking3d-wpf\bin\x86\Debug\FaceTracking3D-WPF.pdb
+C:\Users\KingChun\Desktop\meet- programming done\meet- programming done\facetracking3d-wpf\bin\x86\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\KingChun\Desktop\meet- programming done\meet- programming done\facetracking3d-wpf\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\KingChun\Desktop\meet- programming done\meet- programming done\facetracking3d-wpf\bin\x86\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\KingChun\Desktop\meet- programming done\meet- programming done\facetracking3d-wpf\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\KingChun\Desktop\meet- programming done\meet- programming done\facetracking3d-wpf\bin\x86\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\KingChun\Desktop\meet- programming done\meet- programming done\facetracking3d-wpf\bin\x86\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\KingChun\Desktop\meet- programming done\meet- programming done\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF.csprojResolveAssemblyReference.cache
+C:\Users\KingChun\Desktop\meet- programming done\meet- programming done\facetracking3d-wpf\obj\Win32\Debug\TexturedFaceMeshViewer.g.cs
+C:\Users\KingChun\Desktop\meet- programming done\meet- programming done\facetracking3d-wpf\obj\Win32\Debug\MainWindow.g.cs
+C:\Users\KingChun\Desktop\meet- programming done\meet- programming done\facetracking3d-wpf\obj\Win32\Debug\App.g.cs
+C:\Users\KingChun\Desktop\meet- programming done\meet- programming done\facetracking3d-wpf\obj\Win32\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\KingChun\Desktop\meet- programming done\meet- programming done\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF_MarkupCompile.cache
+C:\Users\KingChun\Desktop\meet- programming done\meet- programming done\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF_MarkupCompile.lref
+C:\Users\KingChun\Desktop\meet- programming done\meet- programming done\facetracking3d-wpf\obj\Win32\Debug\TexturedFaceMeshViewer.baml
+C:\Users\KingChun\Desktop\meet- programming done\meet- programming done\facetracking3d-wpf\obj\Win32\Debug\MainWindow.baml
+C:\Users\KingChun\Desktop\meet- programming done\meet- programming done\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF.g.resources
+C:\Users\KingChun\Desktop\meet- programming done\meet- programming done\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D.Properties.Resources.resources
+C:\Users\KingChun\Desktop\meet- programming done\meet- programming done\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF.csproj.GenerateResource.Cache
+C:\Users\KingChun\Desktop\meet- programming done\facetracking3d-wpf\bin\x86\Debug\FaceTracking3D-WPF.exe.config
+C:\Users\KingChun\Desktop\meet- programming done\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF.exe
+C:\Users\KingChun\Desktop\meet- programming done\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF.pdb
+C:\Users\KingChun\Desktop\FYP Present\facetracking3d-wpf\bin\x86\Debug\FaceTracking3D-WPF.exe.config
+C:\Users\KingChun\Desktop\FYP Present\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF.exe
+C:\Users\KingChun\Desktop\FYP Present\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF.pdb
+C:\Users\KingChun\Desktop\FYP Present\facetracking3d-wpf\bin\x86\Debug\FaceTrackData.dll
+C:\Users\KingChun\Desktop\FYP Present\facetracking3d-wpf\bin\x86\Debug\FaceTrackLib.dll
+C:\Users\KingChun\Desktop\FYP Present\facetracking3d-wpf\bin\x86\Debug\FaceTracking3D-WPF.exe
+C:\Users\KingChun\Desktop\FYP Present\facetracking3d-wpf\bin\x86\Debug\FaceTracking3D-WPF.pdb
+C:\Users\KingChun\Desktop\FYP Present\facetracking3d-wpf\bin\x86\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\KingChun\Desktop\FYP Present\facetracking3d-wpf\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\KingChun\Desktop\FYP Present\facetracking3d-wpf\bin\x86\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\KingChun\Desktop\FYP Present\facetracking3d-wpf\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\KingChun\Desktop\FYP Present\facetracking3d-wpf\bin\x86\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\KingChun\Desktop\FYP Present\facetracking3d-wpf\bin\x86\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\KingChun\Desktop\FYP Present\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF.csprojResolveAssemblyReference.cache
+C:\Users\KingChun\Desktop\FYP Present\facetracking3d-wpf\obj\Win32\Debug\TexturedFaceMeshViewer.g.cs
+C:\Users\KingChun\Desktop\FYP Present\facetracking3d-wpf\obj\Win32\Debug\MainWindow.g.cs
+C:\Users\KingChun\Desktop\FYP Present\facetracking3d-wpf\obj\Win32\Debug\App.g.cs
+C:\Users\KingChun\Desktop\FYP Present\facetracking3d-wpf\obj\Win32\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\KingChun\Desktop\FYP Present\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF_MarkupCompile.cache
+C:\Users\KingChun\Desktop\FYP Present\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF_MarkupCompile.lref
+C:\Users\KingChun\Desktop\FYP Present\facetracking3d-wpf\obj\Win32\Debug\TexturedFaceMeshViewer.baml
+C:\Users\KingChun\Desktop\FYP Present\facetracking3d-wpf\obj\Win32\Debug\MainWindow.baml
+C:\Users\KingChun\Desktop\FYP Present\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF.g.resources
+C:\Users\KingChun\Desktop\FYP Present\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D.Properties.Resources.resources
+C:\Users\KingChun\Desktop\FYP Present\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF.csproj.GenerateResource.Cache
+C:\Users\KingChun\Desktop\FYP Present - Copy\facetracking3d-wpf\bin\x86\Debug\FaceTracking3D-WPF.exe.config
+C:\Users\KingChun\Desktop\FYP Present - Copy\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF.exe
+C:\Users\KingChun\Desktop\FYP Present - Copy\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF.pdb
+C:\Users\KingChun\Desktop\FYP Present - Copy\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF.csprojResolveAssemblyReference.cache
+C:\Users\KingChun\Desktop\FYP Present - Copy\facetracking3d-wpf\obj\Win32\Debug\TexturedFaceMeshViewer.g.cs
+C:\Users\KingChun\Desktop\FYP Present - Copy\facetracking3d-wpf\obj\Win32\Debug\App.g.cs
+C:\Users\KingChun\Desktop\FYP Present - Copy\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF_MarkupCompile.cache
+C:\Users\KingChun\Desktop\FYP Present - Copy\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF_MarkupCompile.lref
+C:\Users\KingChun\Desktop\FYP Present - Copy\facetracking3d-wpf\bin\x86\Debug\FaceTrackData.dll
+C:\Users\KingChun\Desktop\FYP Present - Copy\facetracking3d-wpf\bin\x86\Debug\FaceTrackLib.dll
+C:\Users\KingChun\Desktop\FYP Present - Copy\facetracking3d-wpf\bin\x86\Debug\FaceTracking3D-WPF.exe
+C:\Users\KingChun\Desktop\FYP Present - Copy\facetracking3d-wpf\bin\x86\Debug\FaceTracking3D-WPF.pdb
+C:\Users\KingChun\Desktop\FYP Present - Copy\facetracking3d-wpf\bin\x86\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\KingChun\Desktop\FYP Present - Copy\facetracking3d-wpf\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\KingChun\Desktop\FYP Present - Copy\facetracking3d-wpf\bin\x86\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\KingChun\Desktop\FYP Present - Copy\facetracking3d-wpf\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\KingChun\Desktop\FYP Present - Copy\facetracking3d-wpf\bin\x86\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\KingChun\Desktop\FYP Present - Copy\facetracking3d-wpf\bin\x86\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\KingChun\Desktop\FYP Present - Copy\facetracking3d-wpf\obj\Win32\Debug\MainWindow.g.cs
+C:\Users\KingChun\Desktop\FYP Present - Copy\facetracking3d-wpf\obj\Win32\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\KingChun\Desktop\FYP Present - Copy\facetracking3d-wpf\obj\Win32\Debug\TexturedFaceMeshViewer.baml
+C:\Users\KingChun\Desktop\FYP Present - Copy\facetracking3d-wpf\obj\Win32\Debug\MainWindow.baml
+C:\Users\KingChun\Desktop\FYP Present - Copy\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF.g.resources
+C:\Users\KingChun\Desktop\FYP Present - Copy\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D.Properties.Resources.resources
+C:\Users\KingChun\Desktop\FYP Present - Copy\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF.csproj.GenerateResource.Cache
+C:\Users\KingChun\Desktop\FYP Present  background add\facetracking3d-wpf\bin\x86\Debug\FaceTracking3D-WPF.exe.config
+C:\Users\KingChun\Desktop\FYP Present  background add\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF.exe
+C:\Users\KingChun\Desktop\FYP Present  background add\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF.pdb
+C:\Users\KingChun\Desktop\FYP Present  background add\facetracking3d-wpf\bin\x86\Debug\FaceTrackData.dll
+C:\Users\KingChun\Desktop\FYP Present  background add\facetracking3d-wpf\bin\x86\Debug\FaceTrackLib.dll
+C:\Users\KingChun\Desktop\FYP Present  background add\facetracking3d-wpf\bin\x86\Debug\FaceTracking3D-WPF.exe
+C:\Users\KingChun\Desktop\FYP Present  background add\facetracking3d-wpf\bin\x86\Debug\FaceTracking3D-WPF.pdb
+C:\Users\KingChun\Desktop\FYP Present  background add\facetracking3d-wpf\bin\x86\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\KingChun\Desktop\FYP Present  background add\facetracking3d-wpf\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\KingChun\Desktop\FYP Present  background add\facetracking3d-wpf\bin\x86\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\KingChun\Desktop\FYP Present  background add\facetracking3d-wpf\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\KingChun\Desktop\FYP Present  background add\facetracking3d-wpf\bin\x86\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\KingChun\Desktop\FYP Present  background add\facetracking3d-wpf\bin\x86\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\KingChun\Desktop\FYP Present  background add\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF.csprojResolveAssemblyReference.cache
+C:\Users\KingChun\Desktop\FYP Present  background add\facetracking3d-wpf\obj\Win32\Debug\TexturedFaceMeshViewer.g.cs
+C:\Users\KingChun\Desktop\FYP Present  background add\facetracking3d-wpf\obj\Win32\Debug\MainWindow.g.cs
+C:\Users\KingChun\Desktop\FYP Present  background add\facetracking3d-wpf\obj\Win32\Debug\App.g.cs
+C:\Users\KingChun\Desktop\FYP Present  background add\facetracking3d-wpf\obj\Win32\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\KingChun\Desktop\FYP Present  background add\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF_MarkupCompile.cache
+C:\Users\KingChun\Desktop\FYP Present  background add\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF_MarkupCompile.lref
+C:\Users\KingChun\Desktop\FYP Present  background add\facetracking3d-wpf\obj\Win32\Debug\TexturedFaceMeshViewer.baml
+C:\Users\KingChun\Desktop\FYP Present  background add\facetracking3d-wpf\obj\Win32\Debug\MainWindow.baml
+C:\Users\KingChun\Desktop\FYP Present  background add\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF.g.resources
+C:\Users\KingChun\Desktop\FYP Present  background add\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D.Properties.Resources.resources
+C:\Users\KingChun\Desktop\FYP Present  background add\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF.csproj.GenerateResource.Cache
+C:\Users\KingChun\Desktop\FYP Present  background add and fixed\facetracking3d-wpf\bin\x86\Debug\FaceTracking3D-WPF.exe.config
+C:\Users\KingChun\Desktop\FYP Present  background add and fixed\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF.exe
+C:\Users\KingChun\Desktop\FYP Present  background add and fixed\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF.pdb
+C:\Users\KingChun\Desktop\FYP Present  background add and fixed\facetracking3d-wpf\bin\x86\Debug\FaceTrackData.dll
+C:\Users\KingChun\Desktop\FYP Present  background add and fixed\facetracking3d-wpf\bin\x86\Debug\FaceTrackLib.dll
+C:\Users\KingChun\Desktop\FYP Present  background add and fixed\facetracking3d-wpf\bin\x86\Debug\FaceTracking3D-WPF.exe
+C:\Users\KingChun\Desktop\FYP Present  background add and fixed\facetracking3d-wpf\bin\x86\Debug\FaceTracking3D-WPF.pdb
+C:\Users\KingChun\Desktop\FYP Present  background add and fixed\facetracking3d-wpf\bin\x86\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\KingChun\Desktop\FYP Present  background add and fixed\facetracking3d-wpf\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\KingChun\Desktop\FYP Present  background add and fixed\facetracking3d-wpf\bin\x86\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\KingChun\Desktop\FYP Present  background add and fixed\facetracking3d-wpf\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\KingChun\Desktop\FYP Present  background add and fixed\facetracking3d-wpf\bin\x86\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\KingChun\Desktop\FYP Present  background add and fixed\facetracking3d-wpf\bin\x86\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\KingChun\Desktop\FYP Present  background add and fixed\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF.csprojResolveAssemblyReference.cache
+C:\Users\KingChun\Desktop\FYP Present  background add and fixed\facetracking3d-wpf\obj\Win32\Debug\TexturedFaceMeshViewer.g.cs
+C:\Users\KingChun\Desktop\FYP Present  background add and fixed\facetracking3d-wpf\obj\Win32\Debug\MainWindow.g.cs
+C:\Users\KingChun\Desktop\FYP Present  background add and fixed\facetracking3d-wpf\obj\Win32\Debug\App.g.cs
+C:\Users\KingChun\Desktop\FYP Present  background add and fixed\facetracking3d-wpf\obj\Win32\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\KingChun\Desktop\FYP Present  background add and fixed\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF_MarkupCompile.cache
+C:\Users\KingChun\Desktop\FYP Present  background add and fixed\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF_MarkupCompile.lref
+C:\Users\KingChun\Desktop\FYP Present  background add and fixed\facetracking3d-wpf\obj\Win32\Debug\TexturedFaceMeshViewer.baml
+C:\Users\KingChun\Desktop\FYP Present  background add and fixed\facetracking3d-wpf\obj\Win32\Debug\MainWindow.baml
+C:\Users\KingChun\Desktop\FYP Present  background add and fixed\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF.g.resources
+C:\Users\KingChun\Desktop\FYP Present  background add and fixed\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D.Properties.Resources.resources
+C:\Users\KingChun\Desktop\FYP Present  background add and fixed\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF.csproj.GenerateResource.Cache
+C:\Users\KingChun\Desktop\FYP Present  background add and fixed - Copy\facetracking3d-wpf\bin\x86\Debug\FaceTracking3D-WPF.exe.config
+C:\Users\KingChun\Desktop\FYP Present  background add and fixed - Copy\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF.exe
+C:\Users\KingChun\Desktop\FYP Present  background add and fixed - Copy\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF.pdb
+C:\Users\KingChun\Desktop\FYP Present  background add and fixed - Copy\facetracking3d-wpf\bin\x86\Debug\FaceTrackData.dll
+C:\Users\KingChun\Desktop\FYP Present  background add and fixed - Copy\facetracking3d-wpf\bin\x86\Debug\FaceTrackLib.dll
+C:\Users\KingChun\Desktop\FYP Present  background add and fixed - Copy\facetracking3d-wpf\bin\x86\Debug\FaceTracking3D-WPF.exe
+C:\Users\KingChun\Desktop\FYP Present  background add and fixed - Copy\facetracking3d-wpf\bin\x86\Debug\FaceTracking3D-WPF.pdb
+C:\Users\KingChun\Desktop\FYP Present  background add and fixed - Copy\facetracking3d-wpf\bin\x86\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\KingChun\Desktop\FYP Present  background add and fixed - Copy\facetracking3d-wpf\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\KingChun\Desktop\FYP Present  background add and fixed - Copy\facetracking3d-wpf\bin\x86\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\KingChun\Desktop\FYP Present  background add and fixed - Copy\facetracking3d-wpf\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\KingChun\Desktop\FYP Present  background add and fixed - Copy\facetracking3d-wpf\bin\x86\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\KingChun\Desktop\FYP Present  background add and fixed - Copy\facetracking3d-wpf\bin\x86\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\KingChun\Desktop\FYP Present  background add and fixed - Copy\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF.csprojResolveAssemblyReference.cache
+C:\Users\KingChun\Desktop\FYP Present  background add and fixed - Copy\facetracking3d-wpf\obj\Win32\Debug\TexturedFaceMeshViewer.g.cs
+C:\Users\KingChun\Desktop\FYP Present  background add and fixed - Copy\facetracking3d-wpf\obj\Win32\Debug\MainWindow.g.cs
+C:\Users\KingChun\Desktop\FYP Present  background add and fixed - Copy\facetracking3d-wpf\obj\Win32\Debug\App.g.cs
+C:\Users\KingChun\Desktop\FYP Present  background add and fixed - Copy\facetracking3d-wpf\obj\Win32\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\KingChun\Desktop\FYP Present  background add and fixed - Copy\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF_MarkupCompile.cache
+C:\Users\KingChun\Desktop\FYP Present  background add and fixed - Copy\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF_MarkupCompile.lref
+C:\Users\KingChun\Desktop\FYP Present  background add and fixed - Copy\facetracking3d-wpf\obj\Win32\Debug\TexturedFaceMeshViewer.baml
+C:\Users\KingChun\Desktop\FYP Present  background add and fixed - Copy\facetracking3d-wpf\obj\Win32\Debug\MainWindow.baml
+C:\Users\KingChun\Desktop\FYP Present  background add and fixed - Copy\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF.g.resources
+C:\Users\KingChun\Desktop\FYP Present  background add and fixed - Copy\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D.Properties.Resources.resources
+C:\Users\KingChun\Desktop\FYP Present  background add and fixed - Copy\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF.csproj.GenerateResource.Cache
+C:\Users\KingChun\Desktop\FYP Present  background add and fixed - Copy\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF_Content.g.cs
+C:\Users\KingChun\Desktop\FYP Present  Sound added\facetracking3d-wpf\bin\x86\Debug\FaceTracking3D-WPF.exe.config
+C:\Users\KingChun\Desktop\FYP Present  Sound added\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF.exe
+C:\Users\KingChun\Desktop\FYP Present  Sound added\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF.pdb
+C:\Users\KingChun\Desktop\FYP Present  Sound added\facetracking3d-wpf\bin\x86\Debug\FaceTrackData.dll
+C:\Users\KingChun\Desktop\FYP Present  Sound added\facetracking3d-wpf\bin\x86\Debug\FaceTrackLib.dll
+C:\Users\KingChun\Desktop\FYP Present  Sound added\facetracking3d-wpf\bin\x86\Debug\FaceTracking3D-WPF.exe
+C:\Users\KingChun\Desktop\FYP Present  Sound added\facetracking3d-wpf\bin\x86\Debug\FaceTracking3D-WPF.pdb
+C:\Users\KingChun\Desktop\FYP Present  Sound added\facetracking3d-wpf\bin\x86\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\KingChun\Desktop\FYP Present  Sound added\facetracking3d-wpf\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\KingChun\Desktop\FYP Present  Sound added\facetracking3d-wpf\bin\x86\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\KingChun\Desktop\FYP Present  Sound added\facetracking3d-wpf\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\KingChun\Desktop\FYP Present  Sound added\facetracking3d-wpf\bin\x86\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\KingChun\Desktop\FYP Present  Sound added\facetracking3d-wpf\bin\x86\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\KingChun\Desktop\FYP Present  Sound added\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF.csprojResolveAssemblyReference.cache
+C:\Users\KingChun\Desktop\FYP Present  Sound added\facetracking3d-wpf\obj\Win32\Debug\TexturedFaceMeshViewer.g.cs
+C:\Users\KingChun\Desktop\FYP Present  Sound added\facetracking3d-wpf\obj\Win32\Debug\MainWindow.g.cs
+C:\Users\KingChun\Desktop\FYP Present  Sound added\facetracking3d-wpf\obj\Win32\Debug\App.g.cs
+C:\Users\KingChun\Desktop\FYP Present  Sound added\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF_Content.g.cs
+C:\Users\KingChun\Desktop\FYP Present  Sound added\facetracking3d-wpf\obj\Win32\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\KingChun\Desktop\FYP Present  Sound added\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF_MarkupCompile.cache
+C:\Users\KingChun\Desktop\FYP Present  Sound added\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF_MarkupCompile.lref
+C:\Users\KingChun\Desktop\FYP Present  Sound added\facetracking3d-wpf\obj\Win32\Debug\TexturedFaceMeshViewer.baml
+C:\Users\KingChun\Desktop\FYP Present  Sound added\facetracking3d-wpf\obj\Win32\Debug\MainWindow.baml
+C:\Users\KingChun\Desktop\FYP Present  Sound added\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF.g.resources
+C:\Users\KingChun\Desktop\FYP Present  Sound added\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D.Properties.Resources.resources
+C:\Users\KingChun\Desktop\FYP Present  Sound added\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF.csproj.GenerateResource.Cache
+C:\Users\Kc\Desktop\FYP final Present\facetracking3d-wpf\bin\x86\Debug\FaceTracking3D-WPF.exe.config
+C:\Users\Kc\Desktop\FYP final Present\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF.exe
+C:\Users\Kc\Desktop\FYP final Present\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF.pdb
+C:\Users\Kc\Desktop\FYP final Present\facetracking3d-wpf\bin\x86\Debug\FaceTrackData.dll
+C:\Users\Kc\Desktop\FYP final Present\facetracking3d-wpf\bin\x86\Debug\FaceTrackLib.dll
+C:\Users\Kc\Desktop\FYP final Present\facetracking3d-wpf\bin\x86\Debug\FaceTracking3D-WPF.exe
+C:\Users\Kc\Desktop\FYP final Present\facetracking3d-wpf\bin\x86\Debug\FaceTracking3D-WPF.pdb
+C:\Users\Kc\Desktop\FYP final Present\facetracking3d-wpf\bin\x86\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Kc\Desktop\FYP final Present\facetracking3d-wpf\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\Kc\Desktop\FYP final Present\facetracking3d-wpf\bin\x86\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Kc\Desktop\FYP final Present\facetracking3d-wpf\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\Kc\Desktop\FYP final Present\facetracking3d-wpf\bin\x86\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Kc\Desktop\FYP final Present\facetracking3d-wpf\bin\x86\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\Kc\Desktop\FYP final Present\facetracking3d-wpf\obj\Win32\Debug\ResolveAssemblyReference.cache
+C:\Users\Kc\Desktop\FYP final Present\facetracking3d-wpf\obj\Win32\Debug\TexturedFaceMeshViewer.g.cs
+C:\Users\Kc\Desktop\FYP final Present\facetracking3d-wpf\obj\Win32\Debug\MainWindow.g.cs
+C:\Users\Kc\Desktop\FYP final Present\facetracking3d-wpf\obj\Win32\Debug\App.g.cs
+C:\Users\Kc\Desktop\FYP final Present\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF_Content.g.cs
+C:\Users\Kc\Desktop\FYP final Present\facetracking3d-wpf\obj\Win32\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Kc\Desktop\FYP final Present\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF_MarkupCompile.cache
+C:\Users\Kc\Desktop\FYP final Present\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF_MarkupCompile.lref
+C:\Users\Kc\Desktop\FYP final Present\facetracking3d-wpf\obj\Win32\Debug\TexturedFaceMeshViewer.baml
+C:\Users\Kc\Desktop\FYP final Present\facetracking3d-wpf\obj\Win32\Debug\MainWindow.baml
+C:\Users\Kc\Desktop\FYP final Present\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF.g.resources
+C:\Users\Kc\Desktop\FYP final Present\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D.Properties.Resources.resources
+C:\Users\Kc\Desktop\FYP final Present\facetracking3d-wpf\obj\Win32\Debug\GenerateResource.read.1.tlog
+C:\Users\Kc\Desktop\FYP final Present\facetracking3d-wpf\obj\Win32\Debug\GenerateResource.write.1.tlog
+C:\Users\Kc\Desktop\m21 Present\facetracking3d-wpf\bin\x86\Debug\FaceTracking3D-WPF.exe.config
+C:\Users\Kc\Desktop\m21 Present\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF.exe
+C:\Users\Kc\Desktop\m21 Present\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF.pdb
+C:\Users\Kc\Desktop\m21 Present\facetracking3d-wpf\bin\x86\Debug\FaceTrackData.dll
+C:\Users\Kc\Desktop\m21 Present\facetracking3d-wpf\bin\x86\Debug\FaceTrackLib.dll
+C:\Users\Kc\Desktop\m21 Present\facetracking3d-wpf\bin\x86\Debug\FaceTracking3D-WPF.exe
+C:\Users\Kc\Desktop\m21 Present\facetracking3d-wpf\bin\x86\Debug\FaceTracking3D-WPF.pdb
+C:\Users\Kc\Desktop\m21 Present\facetracking3d-wpf\bin\x86\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Kc\Desktop\m21 Present\facetracking3d-wpf\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\Kc\Desktop\m21 Present\facetracking3d-wpf\bin\x86\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Kc\Desktop\m21 Present\facetracking3d-wpf\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\Kc\Desktop\m21 Present\facetracking3d-wpf\bin\x86\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Kc\Desktop\m21 Present\facetracking3d-wpf\bin\x86\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\Kc\Desktop\m21 Present\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Kc\Desktop\m21 Present\facetracking3d-wpf\obj\Win32\Debug\TexturedFaceMeshViewer.g.cs
+C:\Users\Kc\Desktop\m21 Present\facetracking3d-wpf\obj\Win32\Debug\MainWindow.g.cs
+C:\Users\Kc\Desktop\m21 Present\facetracking3d-wpf\obj\Win32\Debug\App.g.cs
+C:\Users\Kc\Desktop\m21 Present\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF_Content.g.cs
+C:\Users\Kc\Desktop\m21 Present\facetracking3d-wpf\obj\Win32\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Kc\Desktop\m21 Present\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF_MarkupCompile.cache
+C:\Users\Kc\Desktop\m21 Present\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF_MarkupCompile.lref
+C:\Users\Kc\Desktop\m21 Present\facetracking3d-wpf\obj\Win32\Debug\TexturedFaceMeshViewer.baml
+C:\Users\Kc\Desktop\m21 Present\facetracking3d-wpf\obj\Win32\Debug\MainWindow.baml
+C:\Users\Kc\Desktop\m21 Present\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF.g.resources
+C:\Users\Kc\Desktop\m21 Present\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D.Properties.Resources.resources
+C:\Users\Kc\Desktop\m21 Present\facetracking3d-wpf\obj\Win32\Debug\FaceTracking3D-WPF.csproj.GenerateResource.Cache

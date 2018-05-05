@@ -1,0 +1,107 @@
+C:\Kinect Project\脚手架\kinectbuttonpress1\KinectUserInterfaceDemo\bin\Debug\KinectUserInterfaceDemo.exe
+C:\Kinect Project\脚手架\kinectbuttonpress1\KinectUserInterfaceDemo\bin\Debug\KinectUserInterfaceDemo.pdb
+C:\Kinect Project\脚手架\kinectbuttonpress1\KinectUserInterfaceDemo\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Kinect Project\脚手架\kinectbuttonpress1\KinectUserInterfaceDemo\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Kinect Project\脚手架\kinectbuttonpress1\KinectUserInterfaceDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Kinect Project\脚手架\kinectbuttonpress1\KinectUserInterfaceDemo\obj\x86\Debug\MainWindow.baml
+C:\Kinect Project\脚手架\kinectbuttonpress1\KinectUserInterfaceDemo\obj\x86\Debug\MainWindow.g.cs
+C:\Kinect Project\脚手架\kinectbuttonpress1\KinectUserInterfaceDemo\obj\x86\Debug\App.g.cs
+C:\Kinect Project\脚手架\kinectbuttonpress1\KinectUserInterfaceDemo\obj\x86\Debug\KinectUserInterfaceDemo_MarkupCompile.cache
+C:\Kinect Project\脚手架\kinectbuttonpress1\KinectUserInterfaceDemo\obj\x86\Debug\KinectUserInterfaceDemo.g.resources
+C:\Kinect Project\脚手架\kinectbuttonpress1\KinectUserInterfaceDemo\obj\x86\Debug\KinectHubDemo.Properties.Resources.resources
+C:\Kinect Project\脚手架\kinectbuttonpress1\KinectUserInterfaceDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Kinect Project\脚手架\kinectbuttonpress1\KinectUserInterfaceDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Kinect Project\脚手架\kinectbuttonpress1\KinectUserInterfaceDemo\obj\x86\Debug\KinectUserInterfaceDemo.exe
+C:\Kinect Project\脚手架\kinectbuttonpress1\KinectUserInterfaceDemo\obj\x86\Debug\KinectUserInterfaceDemo.pdb
+C:\Kinect Project\脚手架\KinectHubDemo\obj\x86\Debug\KinectUserInterfaceDemo.exe
+C:\Kinect Project\脚手架\KinectHubDemo\obj\x86\Debug\KinectUserInterfaceDemo.pdb
+C:\Kinect Project\脚手架\KinectHubDemo\bin\Debug\KinectUserInterfaceDemo.exe
+C:\Kinect Project\脚手架\KinectHubDemo\bin\Debug\KinectUserInterfaceDemo.pdb
+C:\Kinect Project\脚手架\KinectHubDemo\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Kinect Project\脚手架\KinectHubDemo\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Kinect Project\脚手架\KinectHubDemo\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Kinect Project\脚手架\KinectHubDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Kinect Project\脚手架\KinectHubDemo\obj\x86\Debug\MainWindow.baml
+C:\Kinect Project\脚手架\KinectHubDemo\obj\x86\Debug\MainWindow.g.cs
+C:\Kinect Project\脚手架\KinectHubDemo\obj\x86\Debug\App.g.cs
+C:\Kinect Project\脚手架\KinectHubDemo\obj\x86\Debug\KinectUserInterfaceDemo_MarkupCompile.cache
+C:\Kinect Project\脚手架\KinectHubDemo\obj\x86\Debug\KinectUserInterfaceDemo.g.resources
+C:\Kinect Project\脚手架\KinectHubDemo\obj\x86\Debug\KinectHubDemo.Properties.Resources.resources
+C:\Kinect Project\脚手架\KinectHubDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Kinect Project\脚手架\KinectHubDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Kinect Project\KinectHubDemo\obj\x86\Debug\KinectUserInterfaceDemo.exe
+C:\Kinect Project\KinectHubDemo\obj\x86\Debug\KinectUserInterfaceDemo.pdb
+C:\Kinect Project\KinectHubDemo\bin\Debug\KinectUserInterfaceDemo.exe
+C:\Kinect Project\KinectHubDemo\bin\Debug\KinectUserInterfaceDemo.pdb
+C:\Kinect Project\KinectHubDemo\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Kinect Project\KinectHubDemo\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Kinect Project\KinectHubDemo\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Kinect Project\KinectHubDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Kinect Project\KinectHubDemo\obj\x86\Debug\MainWindow.baml
+C:\Kinect Project\KinectHubDemo\obj\x86\Debug\MainWindow.g.cs
+C:\Kinect Project\KinectHubDemo\obj\x86\Debug\App.g.cs
+C:\Kinect Project\KinectHubDemo\obj\x86\Debug\KinectUserInterfaceDemo_MarkupCompile.cache
+C:\Kinect Project\KinectHubDemo\obj\x86\Debug\KinectUserInterfaceDemo.g.resources
+C:\Kinect Project\KinectHubDemo\obj\x86\Debug\KinectHubDemo.Properties.Resources.resources
+C:\Kinect Project\KinectHubDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Kinect Project\KinectHubDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Kinect Project\Chapter 13\KinectHubDemo\obj\x86\Debug\KinectUserInterfaceDemo.exe
+C:\Kinect Project\Chapter 13\KinectHubDemo\obj\x86\Debug\KinectUserInterfaceDemo.pdb
+C:\Kinect Project\Chapter 13\KinectHubDemo\bin\Debug\KinectUserInterfaceDemo.exe
+C:\Kinect Project\Chapter 13\KinectHubDemo\bin\Debug\KinectUserInterfaceDemo.pdb
+C:\Kinect Project\Chapter 13\KinectHubDemo\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Kinect Project\Chapter 13\KinectHubDemo\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Kinect Project\Chapter 13\KinectHubDemo\obj\x86\Debug\MainWindow.baml
+C:\Kinect Project\Chapter 13\KinectHubDemo\obj\x86\Debug\MainWindow.g.cs
+C:\Kinect Project\Chapter 13\KinectHubDemo\obj\x86\Debug\App.g.cs
+C:\Kinect Project\Chapter 13\KinectHubDemo\obj\x86\Debug\KinectUserInterfaceDemo_MarkupCompile.cache
+C:\Kinect Project\Chapter 13\KinectHubDemo\obj\x86\Debug\KinectUserInterfaceDemo.g.resources
+C:\Kinect Project\Chapter 13\KinectHubDemo\obj\x86\Debug\KinectHubDemo.Properties.Resources.resources
+C:\Kinect Project\Chapter 13\KinectHubDemo\obj\x86\Debug\KinectHubDemo.csprojResolveAssemblyReference.cache
+C:\Kinect Project\Chapter 13\KinectHubDemo\obj\x86\Debug\KinectHubDemo.csproj.GenerateResource.Cache
+C:\Users\KingChun\Desktop\kinect book code\Chapter 13\KinectHubDemo\obj\x86\Debug\KinectUserInterfaceDemo.exe
+C:\Users\KingChun\Desktop\kinect book code\Chapter 13\KinectHubDemo\obj\x86\Debug\KinectUserInterfaceDemo.pdb
+C:\Users\KingChun\Desktop\kinect book code\Chapter 13\KinectHubDemo\obj\x86\Debug\MainWindow.baml
+C:\Users\KingChun\Desktop\kinect book code\Chapter 13\KinectHubDemo\obj\x86\Debug\MainWindow.g.cs
+C:\Users\KingChun\Desktop\kinect book code\Chapter 13\KinectHubDemo\obj\x86\Debug\App.g.cs
+C:\Users\KingChun\Desktop\kinect book code\Chapter 13\KinectHubDemo\obj\x86\Debug\KinectUserInterfaceDemo_MarkupCompile.cache
+C:\Users\KingChun\Desktop\kinect book code\Chapter 13\KinectHubDemo\obj\x86\Debug\KinectUserInterfaceDemo.g.resources
+C:\Users\KingChun\Desktop\kinect book code\Chapter 13\KinectHubDemo\obj\x86\Debug\KinectHubDemo.csproj.GenerateResource.Cache
+C:\Users\KingChun\Desktop\kinect book code\Chapter 13\KinectHubDemo\bin\Debug\KinectUserInterfaceDemo.exe
+C:\Users\KingChun\Desktop\kinect book code\Chapter 13\KinectHubDemo\bin\Debug\KinectUserInterfaceDemo.pdb
+C:\Users\KingChun\Desktop\kinect book code\Chapter 13\KinectHubDemo\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\KingChun\Desktop\kinect book code\Chapter 13\KinectHubDemo\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\KingChun\Desktop\kinect book code\Chapter 13\KinectHubDemo\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\KingChun\Desktop\kinect book code\Chapter 13\KinectHubDemo\obj\x86\Debug\AestheticModifierForRealObject.Properties.Resources.resources
+C:\Users\KingChun\Desktop\KinectHubDemo\obj\x86\Debug\KinectUserInterfaceDemo.exe
+C:\Users\KingChun\Desktop\KinectHubDemo\obj\x86\Debug\KinectUserInterfaceDemo.pdb
+C:\Users\KingChun\Desktop\KinectHubDemo\bin\Debug\KinectUserInterfaceDemo.exe
+C:\Users\KingChun\Desktop\KinectHubDemo\bin\Debug\KinectUserInterfaceDemo.pdb
+C:\Users\KingChun\Desktop\KinectHubDemo\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\KingChun\Desktop\KinectHubDemo\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\KingChun\Desktop\KinectHubDemo\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\KingChun\Desktop\KinectHubDemo\obj\x86\Debug\KinectHubDemo.csprojResolveAssemblyReference.cache
+C:\Users\KingChun\Desktop\KinectHubDemo\obj\x86\Debug\MainWindow.baml
+C:\Users\KingChun\Desktop\KinectHubDemo\obj\x86\Debug\MainWindow.g.cs
+C:\Users\KingChun\Desktop\KinectHubDemo\obj\x86\Debug\App.g.cs
+C:\Users\KingChun\Desktop\KinectHubDemo\obj\x86\Debug\KinectUserInterfaceDemo_MarkupCompile.cache
+C:\Users\KingChun\Desktop\KinectHubDemo\obj\x86\Debug\KinectUserInterfaceDemo.g.resources
+C:\Users\KingChun\Desktop\KinectHubDemo\obj\x86\Debug\AestheticModifierForRealObject.Properties.Resources.resources
+C:\Users\KingChun\Desktop\KinectHubDemo\obj\x86\Debug\KinectHubDemo.csproj.GenerateResource.Cache
+C:\Users\KingChun\Desktop\Hub test\KinectHubDemo\obj\x86\Debug\KinectUserInterfaceDemo.exe
+C:\Users\KingChun\Desktop\Hub test\KinectHubDemo\obj\x86\Debug\KinectUserInterfaceDemo.pdb
+C:\Users\KingChun\Desktop\Hub test\KinectHubDemo\bin\Debug\KinectUserInterfaceDemo.exe
+C:\Users\KingChun\Desktop\Hub test\KinectHubDemo\bin\Debug\KinectUserInterfaceDemo.pdb
+C:\Users\KingChun\Desktop\Hub test\KinectHubDemo\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\KingChun\Desktop\Hub test\KinectHubDemo\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\KingChun\Desktop\Hub test\KinectHubDemo\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\KingChun\Desktop\Hub test\KinectHubDemo\obj\x86\Debug\KinectHubDemo.csprojResolveAssemblyReference.cache
+C:\Users\KingChun\Desktop\Hub test\KinectHubDemo\obj\x86\Debug\MainWindow.baml
+C:\Users\KingChun\Desktop\Hub test\KinectHubDemo\obj\x86\Debug\MainWindow.g.cs
+C:\Users\KingChun\Desktop\Hub test\KinectHubDemo\obj\x86\Debug\App.g.cs
+C:\Users\KingChun\Desktop\Hub test\KinectHubDemo\obj\x86\Debug\KinectUserInterfaceDemo_MarkupCompile.cache
+C:\Users\KingChun\Desktop\Hub test\KinectHubDemo\obj\x86\Debug\KinectUserInterfaceDemo.g.resources
+C:\Users\KingChun\Desktop\Hub test\KinectHubDemo\obj\x86\Debug\AestheticModifierForRealObject.Properties.Resources.resources
+C:\Users\KingChun\Desktop\Hub test\KinectHubDemo\obj\x86\Debug\KinectHubDemo.csproj.GenerateResource.Cache
+C:\Users\KingChun\Desktop\Meeting\better\KinectHubDemo\obj\x86\Debug\KinectUserInterfaceDemo.exe
+C:\Users\KingChun\Desktop\Meeting\better\KinectHubDemo\obj\x86\Debug\KinectUserInterfaceDemo.pdb
